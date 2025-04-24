@@ -61,10 +61,13 @@
             {"threshold": 52, "model": {"type": "model", "model": "custom:item/ice"}},
             {"threshold": 53, "model": {"type": "model", "model": "custom:item/schilderijen/schilderij9"}},
             {"threshold": 54, "model": {"type": "model", "model": "custom:item/schilderijen/schilderij10"}},
+            {"threshold": 55, "model": {"type": "model", "model": "custom:item/zoc"}},
+            {"threshold": 56, "model": {"type": "model", "model": "custom:item/hoedjes/cowboy/wit"}},
+            {"threshold": 57, "model": {"type": "model", "model": "custom:item/hoedjes/cowboy/roze"}},
 
-            {"threshold": 55, "model": {"type": "model", "model": "custom:item/molens/molen"}},
-            {"threshold": 56, "model": {"type": "model", "model": "custom:item/molens/windmolen"}},
-            {"threshold": 57, "model": {"type": "model", "model": "custom:item/molens/wipmolens/rood"}}
+            {"threshold": 58, "model": {"type": "model", "model": "custom:item/molens/molen"}},
+            {"threshold": 59, "model": {"type": "model", "model": "custom:item/molens/windmolen"}},
+            {"threshold": 60, "model": {"type": "model", "model": "custom:item/molens/wipmolens/rood"}}
         ]
     }
 }
