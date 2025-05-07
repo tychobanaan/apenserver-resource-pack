@@ -189,7 +189,9 @@
             {"threshold": 31, "model": {"type": "model", "model": "custom:item/mario/toad_hoeden/groen"}},
             {"threshold": 32, "model": {"type": "model", "model": "custom:item/mario/toad_hoeden/paars"}},
             {"threshold": 36, "model": {"type": "model", "model": "custom:item/mario/pet_mario"}},
-            {"threshold": 37, "model": {"type": "model", "model": "custom:item/mario/pet_luigi"}}
+            {"threshold": 37, "model": {"type": "model", "model": "custom:item/mario/pet_luigi"}},
+            {"threshold": 56, "model": {"type": "model", "model": "custom:item/hoedjes/cowboy/wit"}},
+            {"threshold": 57, "model": {"type": "model", "model": "custom:item/hoedjes/cowboy/roze"}}
         ]
     }
 }
