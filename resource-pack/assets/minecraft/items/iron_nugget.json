@@ -8,7 +8,13 @@
         },
         "entries": [
             {"threshold": 1, "model": {"type": "model", "model": "custom:item/iron_nugget/tycho_token"}},
-            {"threshold": 2, "model": {"type": "model", "model": "custom:item/iron_nugget/duitse_mark"}}
+            {"threshold": 2, "model": {"type": "model", "model": "custom:item/iron_nugget/duitse_mark"}},
+            {"threshold": 3, "model": {"type": "model", "model": "custom:item/tegels/molen"}},
+            {"threshold": 4, "model": {"type": "model", "model": "custom:item/tegels/schip"}},
+            {"threshold": 5, "model": {"type": "model", "model": "custom:item/tegels/soldaat"}},
+            {"threshold": 6, "model": {"type": "model", "model": "custom:item/tegels/tulpen"}},
+            {"threshold": 7, "model": {"type": "model", "model": "custom:item/tegels/zeemeermin"}},
+            {"threshold": 8, "model": {"type": "model", "model": "custom:item/tegels/zeewezen"}}
         ]
     }
 }
