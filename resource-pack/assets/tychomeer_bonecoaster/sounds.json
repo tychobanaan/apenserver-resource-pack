@@ -1,0 +1,4 @@
+{
+    "activate":{"sounds":["tychomeer_bonecoaster:activate"]},
+    "screech":{"sounds":["tychomeer_bonecoaster:screech"]}
+}
