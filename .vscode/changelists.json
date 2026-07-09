@@ -3,24 +3,10 @@
     {
       "name": "Default",
       "files": [
-        "resource-pack/assets/tychomeer_bonecoaster/items/station_left.json",
-        "resource-pack/assets/tychomeer_bonecoaster/items/station_right.json",
-        "resource-pack/assets/tychomeer_bonecoaster/models/block/cart.json",
-        "resource-pack/assets/tychomeer_bonecoaster/models/block/cart_head.json",
-        "resource-pack/assets/tychomeer_bonecoaster/models/block/cart_head_activated.json",
+        ".vscode/changelists.json",
         "resource-pack/assets/tychomeer_bonecoaster/models/item/station_left.json",
         "resource-pack/assets/tychomeer_bonecoaster/models/item/station_right.json",
-        "resource-pack/assets/tychomeer_bonecoaster/sounds.json",
-        "resource-pack/assets/tychomeer_bonecoaster/sounds/activate.ogg",
-        "resource-pack/assets/tychomeer_bonecoaster/sounds/screech.ogg",
-        "resource-pack/assets/tychomeer_bonecoaster/textures/block/cart.png",
-        "resource-pack/assets/tychomeer_bonecoaster/textures/block/cart_head.png",
-        "resource-pack/assets/tychomeer_bonecoaster/textures/block/cart_head_activated.png",
-        "resource-pack/assets/tychomeer_bonecoaster/textures/block/cart_head_eyes.png",
-        "resource-pack/assets/tychomeer_bonecoaster/textures/block/cart_head_eyes_activated.png",
-        "resource-pack/assets/tychomeer_bonecoaster/textures/item/station.png",
-        ".vscode/changelists.json",
-        "resource-pack/assets/minecraft/blockstates/light.json"
+        "resource-pack/assets/tychomeer_bonecoaster/textures/item/station.png"
       ]
     }
   ],
