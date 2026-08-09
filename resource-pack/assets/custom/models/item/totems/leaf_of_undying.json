@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "custom:item/totems/leaf_of_undying"
+  }
+}

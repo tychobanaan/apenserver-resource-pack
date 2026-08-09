@@ -4,9 +4,27 @@
       "name": "Default",
       "files": [
         ".vscode/changelists.json",
-        "resource-pack/assets/tychomeer_bonecoaster/models/item/station_left.json",
-        "resource-pack/assets/tychomeer_bonecoaster/models/item/station_right.json",
-        "resource-pack/assets/tychomeer_bonecoaster/textures/item/station.png"
+        "resource-pack/assets/custom/textures/item/totems/flower_of_undying.png",
+        "resource-pack/assets/custom/textures/item/totems/leaf_of_undying.png",
+        "resource-pack/assets/custom/textures/item/totems/mario_death_of_undying.png",
+        "resource-pack/assets/custom/textures/item/totems/mario_idle_of_undying.png",
+        "resource-pack/assets/custom/textures/item/totems/mario_jump_of_undying.png",
+        "resource-pack/assets/custom/textures/item/totems/mushroom_of_undying.png",
+        "resource-pack/assets/custom/textures/item/totems/star_of_undying.png",
+        "resource-pack/assets/custom/models/item/totems/flower_of_undying.json",
+        "resource-pack/assets/custom/models/item/totems/leaf_of_undying.json",
+        "resource-pack/assets/custom/models/item/totems/mario_death_of_undying.json",
+        "resource-pack/assets/custom/models/item/totems/mario_idle_of_undying.json",
+        "resource-pack/assets/custom/models/item/totems/mario_jump_of_undying.json",
+        "resource-pack/assets/custom/models/item/totems/mushroom_of_undying.json",
+        "resource-pack/assets/custom/models/item/totems/star_of_undying.json",
+        "resource-pack/assets/custom/items/flower_of_undying.json",
+        "resource-pack/assets/custom/items/leaf_of_undying.json",
+        "resource-pack/assets/custom/items/mario_death_of_undying.json",
+        "resource-pack/assets/custom/items/mario_idle_of_undying.json",
+        "resource-pack/assets/custom/items/mario_jump_of_undying.json",
+        "resource-pack/assets/custom/items/mushroom_of_undying.json",
+        "resource-pack/assets/custom/items/star_of_undying.json"
       ]
     }
   ],
